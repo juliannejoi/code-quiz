@@ -29,7 +29,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-<img src="[https://github.com/juliannejoi/module04-code-quiz/blob/main/assets/images/04-web-apis-homework-demo%20.gif)" width="40" height="40" />
+![04-web-apis-homework-demo ](https://user-images.githubusercontent.com/118871549/211173731-d7bcbd95-0488-4e90-bdfc-a64c256c28c6.gif)
 
 ______________________________________________template below________________________________________
 
