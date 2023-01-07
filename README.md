@@ -29,7 +29,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />" width="100" height="100" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/juliannejoi/module04-code-quiz/blob/main/assets/images/04-web-apis-homework-demo%20.gif)" width="40" height="40" />
 
 ______________________________________________template below________________________________________
 
